@@ -1,6 +1,8 @@
 ## Group members
 
   145369 Michael Wango
+  145454 Andrew Okombo
+  145519 Victor Gathua
 
 ## Folder Structure
 
